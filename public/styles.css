@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF; /* White background */
+    /* black */ color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #FF0000; /* Red buttons */
+    color: #FFFFFF; /* White button text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#timer {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 20px;
+}
